@@ -1,0 +1,16 @@
+{
+  "name": "2-collectors-1-exporter",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "WTFPL",
+  "dependencies": {
+    "@opentelemetry/api": "^0.14.0",
+    "@opentelemetry/exporter-collector": "^0.14.0",
+    "@opentelemetry/tracing": "^0.14.0"
+  }
+}
